@@ -1,4 +1,4 @@
-# My Python Scripts 🐍
+# My Python Scripts
 
 This repository has 2 simple Python programs that I built.
 
