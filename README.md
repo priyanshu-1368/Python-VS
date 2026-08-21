@@ -7,7 +7,7 @@ This repository has 2 simple Python programs that I built.
 ##  What's Inside?
 
 ### 1. `Biodata.py`
-A quick interactive script that asks for your name, age, height, and favorite number. It shows your info along with data types and calculates your birth year.\n
+A quick interactive script that asks for your name, age, height, and favorite number. It shows your info along with data types and calculates your birth year.
 
 ![Biodata](Screenshots%201/Screenshot%202026-08-20%20185303.png)
 
